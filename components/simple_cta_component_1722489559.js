@@ -6,7 +6,7 @@ Vue.component("simple_cta_component_1722489559", {
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6 backdrop-blur-lg bg-white/10 rounded-2xl shadow-lg">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
-                    <h2 id="cta-title" class="flex-1 mb-4 text-4xl font-bold leading-tight tracking-tight text-white">Get Fit, Stay Motivated</h2>
+                    <h2 id="cta-title" class="flex-1 mb-4 text-4xl font-bold leading-tight tracking-tight text-white">Get Fit, Stay  Home</h2>
                 </div>
 
                 <div id="cta-subtitle-container" class="flex">
