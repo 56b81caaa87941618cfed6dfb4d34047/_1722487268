@@ -18,5 +18,11 @@
         "content": "Sure, adding a button with text \"Guy\".",
         "timestamp": "01082024045620",
         "message_id": "guest01082024045618"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly on the app do you want the 'Guy' button to be placed?\", \"option1\": \"On the main dashboard near the top\", \"option2\": \"In the user profile section\"}, {\"question 2\": \"What function should the 'Guy' button perform when clicked?\", \"option1\": \"Navigate to a page with workout plans\", \"option2\": \"Display information about gym membership options\"}], \"input_token_count\": 257, \"output_token_count\": 98, \"time_taken\": \"0:00:03.556903\"}",
+        "timestamp": "01082024045623",
+        "message_id": "guest01082024045618"
     }
 ]
